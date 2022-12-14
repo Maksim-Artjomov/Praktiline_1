@@ -113,4 +113,3 @@ M=int(input("Sisetajad aja minutid: ")) #1h=60min
 H=M//60 #h
 M=M%60 #min
 print(f"{H}:{M}")
-
